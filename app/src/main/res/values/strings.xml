@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">projekt11</string>
+    <string name="toasttext">Błędne dane!</string>
+    <string name="dobredane">Zalogowano poprawnie!</string>
+</resources>
